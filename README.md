@@ -26,7 +26,7 @@ This project builds a simple neural network to recognize handwritten digits (0â€
 
 ## How to Run
 
-1. Open the `digit_classifier.ipynb` notebook in Google Colab.
+1. Open the `Digit_Classification_Project.ipynb` notebook in Google Colab.
 2. Run all cells step-by-step.
 3. Check the accuracy and sample predictions in the output.
 
