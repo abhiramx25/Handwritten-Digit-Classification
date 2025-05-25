@@ -1,6 +1,4 @@
-tensorflow==2.15.0
 streamlit
-streamlit-drawable-canvas
-pillow
 numpy
-keras
+pillow
+scikit-learn
